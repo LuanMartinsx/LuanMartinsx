@@ -1,7 +1,5 @@
 <h2 align="left">Olá👋! Seja Bem Vindo</h2>
 
-<img src="https://raw.githubusercontent.com/LuanMartinsx/LuanMartinsx/output/snake.svg" alt="Snake animation" />
-
 ###
 
 * Meu nome é Luan Martins, me formei no final do ano passado em Analise e Desenvolvimento de Sistemas na Universidade UNIP - Paulista
